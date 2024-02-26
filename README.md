@@ -23,7 +23,7 @@ This is a REST API for a user signup and login.
 
 ## The signUp End-point.
 * Route Path -> '/user/signUp
-* * Request URL -> http://localhost:5000/user/signUp
+* Request URL -> http://localhost:5000/user/signUp
 * Expected Input: {
   "Name" : "David Nettey",
   "Email" : "david@carrot.com",
@@ -36,7 +36,7 @@ This is a REST API for a user signup and login.
 
 ## The logIn End-point.
 * Route Path -> '/user/logIn
-* * Request URL -> http://localhost:5000/user/logIn
+* Request URL -> http://localhost:5000/user/logIn
 * Expected Input: {
   "Email" : "david@carrot.com",
   "Password": "Dadlai1" }
